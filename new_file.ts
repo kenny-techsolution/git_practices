@@ -1,6 +1,2 @@
 fdsfasdf;
-<<<<<<< HEAD
-main;
-=======
-branch develop
->>>>>>> develop
+branch develop 123
